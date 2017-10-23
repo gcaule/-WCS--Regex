@@ -10,8 +10,12 @@
     <string name="address_here">Votre adresse postale</string>
     <string name="send">Envoyer</string>
     <string name="error_name">Le nom ne doit contenir que des caractères alphabétiques</string>
-    <string name="error_age">L\'âge ne doit contenir que des caractères numériques</string>
-    <string name="error_address">L\'adresse doit avoir la forme : n° et rue, code postal ville</string>
+    <string name="error_age">N\'utiliser que des caractères numériques (1 à 3)</string>
+    <string name="error_address">Utiliser le format suivant : 00 rue Exemple 00000 Ville"</string>
     <string name="error_email">L\'adresse email n\'a pas le bon format</string>
     <string name="success">Tout est OK !</string>
+    <string name="OKname">Nom et prénom corrects</string>
+    <string name="OKage">Âge correct</string>
+    <string name="OKemail">Adresse mail correcte</string>
+    <string name="OKaddress">Adresse correcte</string>
 </resources>
